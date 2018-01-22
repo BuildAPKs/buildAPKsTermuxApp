@@ -1,3 +1,5 @@
+This project is being built around issues https://github.com/sdrausty/buildAPKs/issues/3 and https://github.com/termux/termux-packages/issues/1756 similar to https://sdrausty.github.io/TermuxPovray/.  
+
 Termux app
 ==========
 [![Travis build status](https://travis-ci.org/termux/termux-app.svg?branch=master)](https://travis-ci.org/termux/termux-app)
